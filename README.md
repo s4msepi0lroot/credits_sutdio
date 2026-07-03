@@ -4,9 +4,7 @@
 
 ## Демонстрация.
 
-<video src="https://github.com/s4msepi0lroot/credits_sutdio/raw/refs/heads/main/demo.mp4" controls width="600">
-  Ваш браузер не поддерживает видео.
-</video>
+![Демонстрация](https://github.com/user-attachments/assets/d9bf9d64-e2a4-4ad0-957e-b118db9b8963)
 
 ## Установка
 
