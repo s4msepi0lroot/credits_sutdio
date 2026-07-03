@@ -2,6 +2,12 @@
 
 Генератор видео с титрами: название -> прокрутка ролей и имён -> финальная надпись. gui на `customtkinter`.
 
+## Демонстрация.
+
+<video src="https://github.com/s4msepi0lroot/credits_sutdio/raw/refs/heads/main/demo.mp4" controls width="600">
+  Ваш браузер не поддерживает видео.
+</video>
+
 ## Установка
 
 ```bash
