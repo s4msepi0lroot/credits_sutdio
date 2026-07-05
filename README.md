@@ -4,7 +4,7 @@
 
 ## Демонстрация.
 
-![Демонстрация](https://github.com/user-attachments/assets/d9bf9d64-e2a4-4ad0-957e-b118db9b8963)
+![Демонстрация](https://raw.githubusercontent.com/s4msepi0lroot/credits_sutdio/refs/heads/main/demo.mp4)
 
 ## Установка
 
